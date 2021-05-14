@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WinnieLadiesShoeOnlineShoppingCentre</string>
+<string name="TextView">canvas</string>
+    <string name="TextView2">jungles</string>
+    <string name="TextView3">pumps</string>
+    <string name="TextView4">OpenShoes</string>
+    <string name="TextView5">UGX25000</string>
+    <string name="TextView6">UGX18000</string>
+    <string name="TextView7">UGX20000</string>
+    <string name="TextView8">UGX25000</string>
+</resources>
